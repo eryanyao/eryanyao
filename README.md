@@ -9,13 +9,13 @@
 <br/>
 
 <div>
-  <a href="https://github.com/eryanyao/yanyao">
+  <a href="https://github.com/eryanyao/eryanyao">
     <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=eryanyao&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" alt="YAN YAO's Github stats" />
   </a>
 </div>
 
 <div>
-  <a href="https://github.com/cyeehan/cyeehan">
+  <a href="https://github.com/eryanyao/eryanyao">
     <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=eryanyao&langs_count=6&layout=compact&theme=gruvbox&count_private=true&hide_title=true" alt="YAN YAO's most used languages" />
   </a>
 </div>
