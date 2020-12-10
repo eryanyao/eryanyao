@@ -24,17 +24,16 @@
 <div align="left">
 
   ### Programming Languages
-
-  <img alt="java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-
-  <img alt="javascript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
-  <img alt="html5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-
-  <img alt="css3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-
-  <img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-
+  - Java
+  - C++
+  - SQL
+  - PHP
+  - Html
+  - CSS
+  - ASP.NET
+  - C#
+  - JavaScript
+  
 </div>
 
 <br />
