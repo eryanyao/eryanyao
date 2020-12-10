@@ -14,12 +14,12 @@
   </a>
 </div>
 
+<br/>
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
     <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=eryanyao&langs_count=6&layout=compact&theme=gruvbox&count_private=true&hide_title=true" alt="YAN YAO's most used languages" />
   </a>
 </div>
-
 
 <div align="left">
 
