@@ -30,7 +30,6 @@
   - PHP
   - Html
   - CSS
-  - ASP.NET
   - C#
   - JavaScript
   
@@ -41,7 +40,8 @@
 <div align="left">
 
   ### Frameworks
-
+  - ASP.NET
+  - React Native
  
 
 </div>
