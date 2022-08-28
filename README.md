@@ -24,14 +24,12 @@
 <div align="left">
 
   ### Programming Languages
-  - Java
+  - JavaScript
   - C++
   - SQL
   - PHP
-  - Html
-  - CSS
   - C#
-  - JavaScript
+  - Java
   
 </div>
 
@@ -42,7 +40,22 @@
   ### Frameworks
   - ASP.NET
   - React Native
- 
+  - nodeJs
+  - Vue Js
+  - Spring Boot
+
+</div>
+
+<br />
+
+<div align="left">
+
+  ### Tools
+  - Swagger
+  - Git
+  - Rest Client
+  - RabbitMQ
+  
 
 </div>
 
