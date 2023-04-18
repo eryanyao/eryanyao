@@ -3,14 +3,14 @@
 
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=eryanyao&show_icons=true&theme=gruvbox&count_private=true&hide_title=false" alt="My Github stats" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=eryanyao&show_icons=true&theme=dark&count_private=true&hide_title=false" alt="My Github stats" />
   </a>
 </div>
 
 <br/>
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=eryanyao&langs_count=36&layout=compact&theme=gruvbox&count_private=true&hide_title=false" alt="Most used languages" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=eryanyao&langs_count=36&layout=dark&theme=gruvbox&count_private=true&hide_title=false" alt="Most used languages" />
   </a>
 </div>
 
