@@ -1,12 +1,5 @@
-## Hi there, I am YAN YAO. A Backend Software Developer with 2 year experience. 👋
-
-<div>
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=eryanyao.visitor-badge)
-
-</div>
-
-<br/>
+## Hi there, I am YAN YAO. 
+### A Backend Software Developer with 2 year experience. 👋
 
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
