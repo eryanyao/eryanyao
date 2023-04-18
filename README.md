@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
-    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=eryanyao&show_icons=true&theme=gruvbox&count_private=true&hide_title=false" alt="Github stats" />
+    <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=eryanyao&show_icons=true&theme=gruvbox&count_private=true&hide_title=false" alt="My Github stats" />
   </a>
 </div>
 
