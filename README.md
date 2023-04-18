@@ -8,6 +8,10 @@
 </div>
 
 <br/>
+
+[![eryanyao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eryanyao)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
     <img src="https://my-stats-dxc5zyis5.vercel.app/api/top-langs/?username=eryanyao&langs_count=36&layout=dark&theme=gruvbox&count_private=true&hide_title=false" alt="Most used languages" />
