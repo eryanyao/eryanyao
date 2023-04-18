@@ -25,10 +25,10 @@
 
   ### Programming Languages
   - JavaScript
+  - C#
   - C++
   - SQL
   - PHP
-  - C#
   - Java
   
 </div>
@@ -38,10 +38,13 @@
 <div align="left">
 
   ### Frameworks
+  - NodeJs
   - ASP.NET
+  - GPRC
   - React Native
-  - nodeJs
-  - Vue Js
+  - ReactJS
+  - Angular
+  - VueJS
   - Spring Boot
 
 </div>
@@ -53,18 +56,14 @@
   ### Tools
   - Swagger
   - Git
-  - Rest Client
   - RabbitMQ
-  
+  - AutoMapper
+  - JsReport
+  - NewtonJson
 
 </div>
 
 <br />
 
 <div align="left">
-
-  ### Libraries
-
-
-
 </div>
