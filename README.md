@@ -31,7 +31,7 @@
 <div align="left">
 
   ### Storage
-  - MySQL - Aliyun PolarDb
+  - MySQL - Aliyun PolarDb, Adb
   - Hbase
   - MongoDb
   - Redis
@@ -50,10 +50,10 @@
   - ASP.NET
   - gPRC
   - NodeJs
-    - React Native
-    - ReactJS
-    - Angular
-    - VueJS
+  - React Native
+  - ReactJS
+  - Angular
+  - VueJS
   - Spring Boot
   - Swagger
   - Git
