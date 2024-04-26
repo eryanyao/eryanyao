@@ -1,5 +1,5 @@
 ## Hi there, I am YAN YAO. 
-### A Backend Software Developer with 2 year experience. 👋
+### A Senior Backend Software Developer with 3 year experience. 👋
 
 <div>
   <a href="https://github.com/eryanyao/eryanyao">
@@ -17,10 +17,10 @@
 <div align="left">
 
   ### Programming Languages
-  - JavaScript
   - C#
+  - JavaScript
   - C++
-  - SQL
+  - Python
   - PHP
   - Java
   
@@ -30,31 +30,40 @@
 
 <div align="left">
 
-  ### Frameworks
-  - NodeJs
-  - ASP.NET
-  - GPRC
-  - React Native
-  - ReactJS
-  - Angular
-  - VueJS
-  - Spring Boot
-
+  ### Storage
+  - MySQL - Aliyun PolarDb
+  - Hbase
+  - MongoDb
+  - Redis
+  - Firebase
+    
 </div>
 
 <br />
 
 <div align="left">
 
-  ### Tools
+  ### Frameworks/Tools
+  - .NET
+  - Lens, K8s
+  - Elastic Search, Kibana
+  - ASP.NET
+  - gPRC
+  - NodeJs
+    - React Native
+    - ReactJS
+    - Angular
+    - VueJS
+  - Spring Boot
   - Swagger
   - Git
   - RabbitMQ
   - AutoMapper
   - JsReport
   - NewtonJson
-
 </div>
+
+<br />
 
 <br />
 
